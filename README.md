@@ -13,5 +13,13 @@ This project scrapes data about some South African universities from the wikiped
   - `requests` for sending HTTP requests and fetching webpage content.
   - `pandas` for data manipulation and CSV file creation.
 
+## Features
+
+- **Web Scraping**: Extracts specific data points from an HTML table on a webpage.
+- **Data Cleaning**: Processes raw HTML content into structured data.
+- **CSV Export**: Saves the processed data into a CSV file for easy sharing and use.
+
+
+
   
 
