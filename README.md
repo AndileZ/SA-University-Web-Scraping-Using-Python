@@ -6,7 +6,7 @@ A simple web scrapping project using python that collects data on South African 
 This project scrapes data about some South African universities from the wikipedia web page (https://en.wikipedia.org/wiki/List_of_universities_in_South_Africa) using python and jupyter notebook.
 
 ## Technologies used
-- **Python 3.x**: The primary language for scripting.
+- **Python**: The primary language for scripting.
 - **Jupyter Notebook**: For writing and running the code in an interactive environment.
 - **Libraries**:
   - `BeautifulSoup` for parsing HTML and extracting web data.
